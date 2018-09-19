@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86b6a753-3b8f-4a71-94a9-de525111ea92" name="Default" comment="" />
+    <list default="true" id="86b6a753-3b8f-4a71-94a9-de525111ea92" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hangman/HangmanGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hangman/HangmanGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HangmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HangmanGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/HangmanGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/HangmanGameTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +20,8 @@
       <file leaf-file-name="HangmanGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HangmanGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2610">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="1218">
+              <caret line="75" column="37" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextFileSource.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TextFileSource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TextFileSource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
@@ -64,13 +69,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="actualResult.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/actualResult.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-203" />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ExpectedResult.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/ExpectedResult.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,14 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HangmanGameTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HangmanGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/HangmanGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -102,6 +97,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -115,8 +113,8 @@
         <option value="$PROJECT_DIR$/src/NoCategoryFoundException.java" />
         <option value="$PROJECT_DIR$/src/HangmanMain.java" />
         <option value="$PROJECT_DIR$/src/TextFileSource.java" />
-        <option value="$PROJECT_DIR$/test/HangmanGameTest.java" />
         <option value="$PROJECT_DIR$/src/HangmanGame.java" />
+        <option value="$PROJECT_DIR$/test/HangmanGameTest.java" />
       </list>
     </option>
   </component>
@@ -126,6 +124,7 @@
     <option name="width" value="2458" />
     <option name="height" value="1392" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -195,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HangmanMain">
+  <component name="RunManager" selected="JUnit.HangmanGameTest.displayRandomWordFromCategory">
     <configuration name="HangmanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HangmanMain" />
       <module name="Hangman" />
@@ -319,9 +318,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HangmanMain" />
-        <item itemvalue="JUnit.HangmanGameTest.play" />
         <item itemvalue="JUnit.HangmanGameTest.displayRandomWordFromCategory" />
+        <item itemvalue="JUnit.HangmanGameTest.play" />
+        <item itemvalue="Application.HangmanMain" />
         <item itemvalue="JUnit.TextFileSourceTest.getRandomWordByCategory" />
         <item itemvalue="JUnit.TextFileSourceTest.listCategories" />
       </list>
@@ -341,12 +340,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HangmanGameTest_play - 2018.09.19 at 10h 39m 34s.xml">
-      <configuration name="HangmanGameTest.play" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HangmanGameTest_play - 2018.09.19 at 10h 41m 32s.xml">
-      <configuration name="HangmanGameTest.play" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HangmanGameTest_play - 2018.09.19 at 10h 41m 52s.xml">
       <configuration name="HangmanGameTest.play" configurationId="JUnit" />
     </history-entry>
@@ -371,10 +364,15 @@
     <history-entry file="HangmanGameTest_play - 2018.09.19 at 11h 06m 42s.xml">
       <configuration name="HangmanGameTest.play" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HangmanGameTest_play - 2018.09.19 at 20h 32m 19s.xml">
+      <configuration name="HangmanGameTest.play" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HangmanGameTest_displayRandomWordFromCategory - 2018.09.19 at 20h 32m 25s.xml">
+      <configuration name="HangmanGameTest.displayRandomWordFromCategory" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="102" y="48" width="2458" height="1392" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -384,8 +382,8 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3475712" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16107382" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -672,33 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/HangmanGameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HangmanGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2610">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HangmanMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NoCategoryFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
@@ -713,6 +684,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TextFileSource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -721,6 +695,30 @@
             <element signature="imports" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HangmanGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="75" column="37" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HangmanMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/HangmanGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>

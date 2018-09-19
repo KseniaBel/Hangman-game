@@ -64,16 +64,7 @@ public class HangmanGame {
             while(attempts > 0 && !isWordGuessed){
                 stream.println("Please enter a letter:");
 
-                char letter;
-                Scanner sc = new Scanner(input);
-                try{
-                    letter = sc.next(".").toLowerCase().charAt(0);
-                }catch(InputMismatchException e){
-                    continue;
-                }
-
-                //Unit test version
-                //char letter = scanner.next(".").toLowerCase().charAt(0);
+                char letter = scanner.nextLine().toLowerCase().charAt(0);
 
                 if(randomWord.toLowerCase().indexOf(letter) == -1){
                     stream.println("The word/phrase doesn't have this letter.");
