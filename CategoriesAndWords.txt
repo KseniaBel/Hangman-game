@@ -1,0 +1,123 @@
+_Car brands
+Aston Martin
+Alfa Romeo
+Lamborghini
+Land Rover
+Citroen
+Jaguar
+Mitsubishi
+Volkswagen
+Subaru
+Rolls Royce
+Peugeot
+Porsche
+McLaren
+Infiniti
+Dodge
+Chrysler
+Saab
+Skoda
+Tata
+Opel
+Lotus
+Mini
+Great Wall
+Hummer
+Daewoo
+Daihatsu
+Fiat
+Abarth
+Kia
+Bmw
+_World capitals
+Brasilia
+Ottawa
+Brussels
+Santiago
+Havana
+Bogota
+Tallinn
+Tbilisi
+Reykjavik
+Baghdad
+Amman
+Beirut
+Luxembourg
+Tripoli
+Antananarivo
+Kuala Lumpur
+Mexico City
+Kathmandu
+Amsterdam
+Wellington
+Oslo
+Warsaw
+Manila
+Dakar
+Belgrade
+Singapore
+Ljubljana
+San Marino
+Seoul
+Colombo
+Paramaribo
+Damascus
+Taipei
+Dushanbe
+Ashgabat
+Kampala
+Abu Dhabi
+Montevideo
+Vatican City
+Caracas
+Lusaka
+Hanoi
+Kabul
+Algiers
+Buenos Aires
+Yerevan
+Manama
+Dhaka
+Bridgetown
+Belmopan
+Porto Novo
+Thimphu
+Sofia
+Yaounde
+_Programming terms
+Aggregation
+Array
+Binary Search
+Boolean
+Compiler
+Concatenation
+Encapsulation
+Exception
+Framework
+Garbage collection
+Heap
+Hypertext Markup Language
+Immutable object
+Inheritance
+Library
+Lookup table
+Memoization
+Method overloading
+Null pointer
+Opcode
+Pascal
+PHP
+Polymorphism
+Pseudocode
+Python
+Random
+Recursion
+Ruby
+Run time
+Servlet
+Stack
+Superclass
+Thread
+Unit test
+Variable
+Vector
